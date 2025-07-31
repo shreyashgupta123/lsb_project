@@ -1,2 +1,2 @@
-# lsb_project
+# LSB Image Steganography
 Advance C Project
